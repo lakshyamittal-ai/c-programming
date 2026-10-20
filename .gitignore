@@ -1,0 +1,7 @@
+# Compiled C programs
+a.out
+*.o
+*.exe
+
+# Editor backups
+*~
